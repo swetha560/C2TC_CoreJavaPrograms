@@ -1,6 +1,6 @@
 package com.tnsif.packagetest;
 
-import com.tnsif.packagesandaccessmodifiers.AccessModifiersDemo;
+import com.tnsif.packagesandmodifiers.AccessModifiersDemo;
 
 public class TestAccess_2 {
 

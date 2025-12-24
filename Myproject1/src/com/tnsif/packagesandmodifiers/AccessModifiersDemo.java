@@ -1,4 +1,4 @@
-package com.tnsif.packagesandaccessmodifiers;
+package com.tnsif.packagesandmodifiers;
 
 public class AccessModifiersDemo {
 	
